@@ -1,0 +1,6 @@
+name: pulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: DevOps execution for manage an organization on Github
