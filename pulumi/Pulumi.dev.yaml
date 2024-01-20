@@ -1,4 +1,4 @@
 encryptionsalt: v1:imdwB5QD1eM=:v1:XoTyed6PmVXc8aab:bMNVcF50woKtMklkmF36t1lOeHfsxw==
 config:
-  pulumi:githubOwner: "conf42-2024-devops"
-  pulumi:orgUser: "your_user_here"
+  pulumi:githubOwner: "conf42-2024-devops-jhonnypong"
+  pulumi:orgUser: "jthan24"

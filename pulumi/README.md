@@ -6,6 +6,11 @@ Passphrase for secrets: ThisIsASecret
 export PULUMI_CONFIG_PASSPHRASE=ThisIsASecret
 ```
 
+- If you download the repository then you start with:
+```bash
+pulumi install
+```
+
 # In to venv on python
 ```bash
 source venv/bin/activate 

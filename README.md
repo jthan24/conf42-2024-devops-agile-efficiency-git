@@ -16,7 +16,7 @@ Unlocking Agile Efficiency: DevOps Speedup with GIT
 Prepare your environment
 ```bash
 export GITHUB_TOKEN=github_pat_YOUR_ACCESS_TOKEN
-export GITHUB_ORGANIZATION=conf42-2024-devops
+export GITHUB_ORGANIZATION=conf42-2024-devops-jhonnypong
 #You need exported this if you have your onprem or cloud Github installation
 #export GITHUB_BASE_URL=https://github.com/api/v3/
 ```
